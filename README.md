@@ -42,9 +42,3 @@ The form has simple input fields such as: ID and password.
 
 ![tela1](./assets/img/tela1.png)
 ![tela2](./assets/img/tela2.png)
-
-## Confira o projeto / Check the project
-
- <https://matsushitatomio.github.io/Form/>
-
- 
