@@ -10,7 +10,6 @@
 
 - <a href="imagens">Capturas de Tela / ScreenShot</a>
 
-- <a href="Confira">Confira o projeto / Check the project </a>
 
 
 ## Sobre o Projeto / About the Project
