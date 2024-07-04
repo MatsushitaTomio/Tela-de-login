@@ -8,11 +8,11 @@
     --color-dark-900: #000;
 
     --color-blue-50:  #4681ee;
-    --color-blue-100: #273ee6;
+    --color-blue-100: #404ebb;
     --color-blue-200: #1c00f1;
 
 
-    --color-gradient: linear-gradient(90deg, var(--color-blue-100), var(--color-blue-200), var(--color-blue-50));
+    --color-gradient: linear-gradient(180deg, var(--color-blue-200), var(--color-blue-100), var(--color-blue-50));
 
 
 }
@@ -71,7 +71,7 @@
     font-size: 20px;
 }
 
-#inputs {
+.inputs {
      display: flex;
      flex-direction: column;
      align-items: center;
@@ -108,6 +108,11 @@
 .input-field input:focus {
     outline: none;
 
+}
+
+#forgot_password {
+    
+    padding-top: 10px;
 }
 
 #forgot_password a {
